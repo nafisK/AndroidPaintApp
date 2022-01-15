@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="black_chocolate">#231C07</color>
+    <color name="bistre">#392A16</color>
+    <color name="van_dyke_brown">#634133</color>
+    <color name="brown_sugar">#B86F52</color>
+    <color name="coral">#F78764</color>
+
+
 </resources>
