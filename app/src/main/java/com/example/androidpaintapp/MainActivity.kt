@@ -13,6 +13,8 @@ import androidx.core.view.get
 
 class MainActivity : AppCompatActivity() {
 
+    //TODO Implemnt Color Picker: https://www.udemy.com/course/android-kotlin-developer/learn/lecture/29171590#content (end of vid)
+
     private var drawingView: DrawingView? = null
     private var ib_brush: ImageButton? = null
     private var mImageButtonCurrentPaint: ImageButton? = null
